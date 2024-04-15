@@ -1,0 +1,6 @@
+# Fichiers et répertoires à ignorer
+__pycache__/
+*.pyc
+
+# Fichiers de configuration
+config.json
