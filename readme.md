@@ -28,7 +28,7 @@ Create and fill the config.json file with your GLPI server information at the ro
 {
     "url": "http://localhost/glpi/apirest.php",
     "app_token": "XXXXXXXX",
-    "user_token": "XXXXXXXX",
+    "user_token": "XXXXXXXX"
 }
 ```
 
